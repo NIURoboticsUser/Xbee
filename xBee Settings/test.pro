@@ -1,0 +1,10 @@
+xb24_15_4_10ec.mxi
+FE
+0
+231
+10EC
+0
+[A]CH=1A
+[A]ID=FFFF
+[A]MM=1
+[A]BD=3
